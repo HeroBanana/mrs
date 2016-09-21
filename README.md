@@ -1,2 +1,2 @@
-# Mrs
-MasangSoft Mrs
+# MRS
+MasangSoft MRS
